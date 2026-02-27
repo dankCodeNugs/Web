@@ -9,6 +9,7 @@
   - [Text-level Semantics](HTML/Elements/Text/README.md)
   - [Embedded Content](HTML/Elements/Embedded/README.md)
     - [Images](HTML/Elements/Embedded/Images/README.md)
+    - [Frames](HTML/Elements/Embedded/Frames/README.typ)
   - [Tabular Data](HTML/Elements/Tabular/README.md)
   - [Forms](HTML/Elements/Forms/README.md)
     - [Input](HTML/Elements/Forms/Input.md)
@@ -56,6 +57,7 @@
 - [WebAssembly System Interface (WASI)](Wasm/WASI.md)
 
 ## [Client-side Web Frameworks](Client-side/README.md)
+- [Mixing Frameworks](Client-side/Mixing/README.typ)
 - [React](Client-side/React/README.md)
   - [Hooks](Client-side/React/Hooks.md)
   - [Effects](Client-side/React/Effects.md)
@@ -80,6 +82,7 @@
   - [Server-Side Rendering (SSR)](Client-side/Vue/Server-side/README.md)
 - [Svelte](Client-side/Svelte/README.md)
 - [Solid](Client-side/Solid/README.md)
+- [Astro](Client-side/Astro/README.typ)
 
 ## [Web Browsers](Browsers/README.md)
 - [Document Object Model](Browsers/DOM/README.md)
